@@ -1,0 +1,153 @@
+{
+    "countries": [
+      {
+        "country": "United States",
+        "data": [
+          {
+            "year": 1870,
+            "literacy": 85,
+            "life": 40,
+            "emissions": 1,
+            "pil": 4.8
+          },
+          {
+            "year": 1890,
+            "emissions": 7,
+            "pil": 6.6
+          },
+          {
+            "year": 1900,
+            "pil": 8
+          },
+          {
+            "year": 1910,
+            "pil": 9.6
+          },
+          {
+            "year": 1918,
+            "emissions": 17.3
+          },
+          {
+            "year": 1930,
+            "pil": 12
+          },
+          {
+            "year": 1932,
+            "emissions": 10.3
+          },
+          {
+            "year": 1937,
+            "life": 61
+          },
+          {
+            "year": 1940,
+            "literacy": 97.1
+          },
+          {
+            "year": 1944,
+            "emissions": 18,
+            "pil": 17
+          },
+          {
+            "year": 1959,
+            "pil": 15.5
+          },
+          {
+            "year": 1966,
+            "emissions": 18
+          },
+          {
+            "year": 1973,
+            "pil": 26.6
+          },
+          {
+            "year": 1976,
+            "emissions": 21.3
+          },
+          {
+            "year": 2005,
+            "emissions": 14.3
+          },
+          {
+            "year": 2007,
+            "pil": 50.9
+          },
+          {
+            "year": 2023,
+            "literacy": 99,
+            "life": 80,
+            "emissions": 14,
+            "pil": 59
+          }
+        ]
+      },
+      {
+        "country": "China",
+        "data": [
+          {
+            "year": 1870,
+            "life": 35,
+            "pil": 1
+          },
+          {
+            "year": 1880,
+            "life": 37,
+            "pil": 2
+          },
+          {
+            "year": 1930,
+            "life": 32
+          },
+          {
+            "year": 1938,
+            "pil": 1
+          },
+          {
+            "year": 1957,
+            "pil": 2,
+            "life": 48
+          },
+          {
+            "year": 1959,
+            "emissions": 1
+          },
+          {
+            "year": 1981,
+            "emissions": 1.5,
+            "literacy": 66
+          },
+          {
+            "year":1990,
+            "pil": 3,
+            "literacy": 78
+          },
+          {
+            "year": 1994,
+            "life": 70
+          },
+          {
+            "year": 2001,
+            "emissions": 3,
+            "literacy": 91
+          },
+          {
+            "year": 2010,
+            "literacy": 95
+          },
+          {
+            "year": 2016,
+            "emissions": 7,
+            "literacy": 96
+          },
+          {
+            "year": 2023,
+            "pil": 19,
+            "emissions": 8.4,
+            "literacy": 97,
+            "life": 78
+          }
+        ]
+      }
+    ]
+  }
+  
